@@ -1,0 +1,52 @@
+div {
+	position: relative;
+}
+
+.first {
+	height: 92px;
+	width: 272px;
+	margin: 200px auto 0px auto
+}
+
+.second {
+	height: 100px;
+	width: 604px;
+	margin: auto	
+}
+
+.third {
+	height: 100px;
+	width: 352px;
+	margin: auto	
+}
+
+.logo {
+	height: 92px;
+	width: 272px;
+	margin: auto;
+	bottom: 0px;
+	position: absolute;
+}
+
+#textbox {
+	height: 35px;
+	width: 600px;
+	position: absolute;
+	top: 30px
+}
+
+.buttons {
+	height: 2.5em;
+	line-height: 2.5em;
+	width: 170px;
+	background-color: #f2f2f2;
+	color: #757575;
+	font-size: 13px;
+	font-weight: bold;
+	display: inline-block;
+	text-align: center;
+	font-family: sans-serif;
+	border: 2px solid white;
+	vertical-align: middle;
+}
+	
